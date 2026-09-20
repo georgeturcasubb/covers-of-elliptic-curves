@@ -1,0 +1,33 @@
+Magma version <2, 28, 9>
+H generators modulo 72 [
+    [ 16, 33, 51, 10 ],
+    [ 36, 29, 47, 54 ],
+    [ 44, 21, 39, 38 ],
+    [ 63, 10, 34, 45 ],
+    [ 67, 48, 30, 61 ]
+]
+G generators modulo 24 [
+    [ 5, 15, 18, 7 ],
+    [ 7, 0, 12, 17 ],
+    [ 11, 6, 18, 17 ],
+    [ 19, 0, 18, 5 ],
+    [ 19, 12, 6, 11 ]
+]
+Orders of H and G 27648 1024
+Indices of H and G 216 72
+Both contain -I and have full determinant image.
+CRT projection orders H8,H9,G8,G3 256 108 256 4
+Projection conjugators to saved groups [ 7, 0, 1, 3 ]
+[ 5, 5, 5, 4 ]
+[ 1, 0, 0, 1 ]
+[ 1, 0, 0, 1 ]
+The level-3 target is the split Cartan of index 12.
+Compatible target conjugator [ 16, 1, 1, 17 ]
+Target inverse-image order and relative index 82944 3
+Determinant-one orders 1152 3456
+Arithmetic and geometric three-letter image orders 6 3
+H9 geometric order, normalizer order, quotient order 18 216 12
+Order-three elements of the quotient 2
+Geometric intermediate relative index 3
+All modular-group and unique-cubic-quotient assertions passed.
+CPU seconds 0.170

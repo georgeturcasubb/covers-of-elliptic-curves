@@ -1,0 +1,19 @@
+Magma version <2, 28, 9>
+Closed-place order: O,(-2,0),D0,D4,Dminus,Dplus
+Closed degrees [ 1, 1, 2, 2, 2, 4 ]
+Valuations of h [ 2, 2, -1, -1, -2, 1 ]
+Degree of div(h) 0
+Geometric support size 12
+Degree of Q(C)/Q(E) 3
+The Q-defined map is (x,y,w) -> (x,y).
+Branch closed degree, valuation, relative decomposition 1 2 [ <1, 3> ]
+Branch closed degree, valuation, relative decomposition 1 2 [ <1, 3> ]
+Branch closed degree, valuation, relative decomposition 2 -1 [ <1, 3> ]
+Branch closed degree, valuation, relative decomposition 2 -1 [ <1, 3> ]
+Branch closed degree, valuation, relative decomposition 2 -2 [ <1, 3> ]
+Branch closed degree, valuation, relative decomposition 4 1 [ <1, 3> ]
+Trace-discriminant degree 24
+Odd support size 0
+Riemann-Hurwitz genus and independent function-field genus 13 13
+All normalized Kummer geometry assertions passed.
+CPU seconds 0.950

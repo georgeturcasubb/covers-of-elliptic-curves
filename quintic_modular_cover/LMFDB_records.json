@@ -1,0 +1,544 @@
+{
+  "access_date": "2026-09-20",
+  "source": "LMFDB read-only MCP",
+  "queries": {
+    "groups": "SELECT label, level, index, genus, generators, canonical_generators, canonical_conjugator, contains_negative_one, determinant_label, parents, parents_conj, psl2index, nu2, nu3, cusps, cusp_widths, rational_cusps, cusp_orbits, newforms, dims, mults, curve_label FROM gps_gl2zhat_fine WHERE label IN ('40.480.33.ck.1','40.96.1.o.2','5.5.0.a.1') ORDER BY label",
+    "maps": "SELECT domain_label, codomain_label, degree, domain_model_type, codomain_model_type, coordinates, leading_coefficients, factored FROM modcurve_modelmaps WHERE domain_label = '5.5.0.a.1'"
+  },
+  "groups": {
+    "columns": [
+      "label",
+      "level",
+      "index",
+      "genus",
+      "generators",
+      "canonical_generators",
+      "canonical_conjugator",
+      "contains_negative_one",
+      "determinant_label",
+      "parents",
+      "parents_conj",
+      "psl2index",
+      "nu2",
+      "nu3",
+      "cusps",
+      "cusp_widths",
+      "rational_cusps",
+      "cusp_orbits",
+      "newforms",
+      "dims",
+      "mults",
+      "curve_label"
+    ],
+    "row_count": 3,
+    "rows": [
+      {
+        "label": "40.480.33.ck.1",
+        "level": 40,
+        "index": 480,
+        "genus": 33,
+        "generators": [
+          [
+            23,
+            36,
+            4,
+            7
+          ],
+          [
+            25,
+            24,
+            38,
+            35
+          ],
+          [
+            33,
+            4,
+            32,
+            33
+          ],
+          [
+            39,
+            12,
+            26,
+            21
+          ],
+          [
+            39,
+            36,
+            8,
+            3
+          ]
+        ],
+        "canonical_generators": [
+          [
+            1,
+            4,
+            16,
+            25
+          ],
+          [
+            1,
+            8,
+            14,
+            11
+          ],
+          [
+            1,
+            8,
+            14,
+            31
+          ],
+          [
+            1,
+            8,
+            24,
+            21
+          ],
+          [
+            1,
+            8,
+            34,
+            19
+          ],
+          [
+            1,
+            12,
+            6,
+            11
+          ],
+          [
+            1,
+            12,
+            32,
+            25
+          ],
+          [
+            7,
+            28,
+            24,
+            39
+          ]
+        ],
+        "canonical_conjugator": [
+          31,
+          0,
+          0,
+          1
+        ],
+        "contains_negative_one": true,
+        "determinant_label": "1.1.1",
+        "parents": [
+          "40.96.1.o.2",
+          "40.240.16.c.2",
+          "40.240.16.d.2",
+          "40.240.17.y.2"
+        ],
+        "parents_conj": [
+          [
+            1,
+            0,
+            0,
+            1
+          ],
+          [
+            21,
+            33,
+            8,
+            17
+          ],
+          [
+            1,
+            0,
+            0,
+            1
+          ],
+          [
+            1,
+            0,
+            0,
+            1
+          ]
+        ],
+        "psl2index": 480,
+        "nu2": 0,
+        "nu3": 0,
+        "cusps": 16,
+        "cusp_widths": [
+          [
+            20,
+            8
+          ],
+          [
+            40,
+            8
+          ]
+        ],
+        "rational_cusps": 2,
+        "cusp_orbits": [
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            8,
+            1
+          ]
+        ],
+        "newforms": [
+          "50.2.a.a",
+          "50.2.a.b",
+          "200.2.a.a",
+          "200.2.a.e",
+          "200.2.d.a",
+          "200.2.d.b",
+          "200.2.d.c",
+          "200.2.d.d",
+          "400.2.a.a",
+          "400.2.a.d",
+          "400.2.a.f",
+          "400.2.a.h",
+          "800.2.a.b",
+          "800.2.a.d",
+          "800.2.a.h",
+          "800.2.a.l",
+          "800.2.d.a",
+          "800.2.d.b",
+          "800.2.d.c",
+          "800.2.d.d"
+        ],
+        "dims": [
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          2
+        ],
+        "mults": [
+          1,
+          4,
+          1,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "curve_label": null
+      },
+      {
+        "label": "40.96.1.o.2",
+        "level": 40,
+        "index": 96,
+        "genus": 1,
+        "generators": [
+          [
+            7,
+            16,
+            30,
+            37
+          ],
+          [
+            17,
+            16,
+            0,
+            37
+          ],
+          [
+            23,
+            20,
+            4,
+            39
+          ],
+          [
+            25,
+            4,
+            34,
+            11
+          ],
+          [
+            25,
+            12,
+            8,
+            25
+          ]
+        ],
+        "canonical_generators": [
+          [
+            1,
+            0,
+            8,
+            1
+          ],
+          [
+            1,
+            0,
+            20,
+            1
+          ],
+          [
+            1,
+            2,
+            4,
+            35
+          ],
+          [
+            1,
+            2,
+            24,
+            35
+          ],
+          [
+            1,
+            4,
+            32,
+            5
+          ],
+          [
+            1,
+            8,
+            0,
+            1
+          ],
+          [
+            3,
+            6,
+            12,
+            13
+          ],
+          [
+            9,
+            8,
+            32,
+            33
+          ],
+          [
+            31,
+            0,
+            20,
+            31
+          ]
+        ],
+        "canonical_conjugator": [
+          7,
+          25,
+          35,
+          2
+        ],
+        "contains_negative_one": true,
+        "determinant_label": "1.1.1",
+        "parents": [
+          "8.48.0.b.1",
+          "40.48.0.b.2",
+          "40.48.1.o.1"
+        ],
+        "parents_conj": [
+          [
+            0,
+            17,
+            23,
+            2
+          ],
+          [
+            35,
+            7,
+            22,
+            35
+          ],
+          [
+            1,
+            0,
+            0,
+            1
+          ]
+        ],
+        "psl2index": 96,
+        "nu2": 0,
+        "nu3": 0,
+        "cusps": 16,
+        "cusp_widths": [
+          [
+            4,
+            8
+          ],
+          [
+            8,
+            8
+          ]
+        ],
+        "rational_cusps": 2,
+        "cusp_orbits": [
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            8,
+            1
+          ]
+        ],
+        "newforms": [
+          "800.2.a.d"
+        ],
+        "dims": [
+          1
+        ],
+        "mults": [
+          1
+        ],
+        "curve_label": null
+      },
+      {
+        "label": "5.5.0.a.1",
+        "level": 5,
+        "index": 5,
+        "genus": 0,
+        "generators": [
+          [
+            1,
+            2,
+            2,
+            0
+          ],
+          [
+            2,
+            0,
+            2,
+            4
+          ]
+        ],
+        "canonical_generators": [
+          [
+            0,
+            1,
+            3,
+            0
+          ],
+          [
+            0,
+            1,
+            4,
+            1
+          ],
+          [
+            0,
+            2,
+            2,
+            1
+          ],
+          [
+            0,
+            2,
+            3,
+            2
+          ]
+        ],
+        "canonical_conjugator": [
+          3,
+          0,
+          4,
+          4
+        ],
+        "contains_negative_one": true,
+        "determinant_label": "1.1.1",
+        "parents": [
+          "1.1.0.a.1"
+        ],
+        "parents_conj": [
+          [
+            1,
+            0,
+            0,
+            1
+          ]
+        ],
+        "psl2index": 5,
+        "nu2": 1,
+        "nu3": 2,
+        "cusps": 1,
+        "cusp_widths": [
+          [
+            5,
+            1
+          ]
+        ],
+        "rational_cusps": 1,
+        "cusp_orbits": [
+          [
+            1,
+            1
+          ]
+        ],
+        "newforms": [],
+        "dims": null,
+        "mults": null,
+        "curve_label": null
+      }
+    ]
+  },
+  "maps": {
+    "columns": [
+      "domain_label",
+      "codomain_label",
+      "degree",
+      "domain_model_type",
+      "codomain_model_type",
+      "coordinates",
+      "leading_coefficients",
+      "factored"
+    ],
+    "row_count": 1,
+    "rows": [
+      {
+        "domain_label": "5.5.0.a.1",
+        "codomain_label": "1.1.0.a.1",
+        "degree": 5,
+        "domain_model_type": 1,
+        "codomain_model_type": 1,
+        "coordinates": [
+          "x^5*(x-4*y)^3*(9*x^2+3*x*y+4*y^2)",
+          "x^10"
+        ],
+        "leading_coefficients": [
+          "-2^2",
+          "1"
+        ],
+        "factored": true
+      }
+    ]
+  }
+}

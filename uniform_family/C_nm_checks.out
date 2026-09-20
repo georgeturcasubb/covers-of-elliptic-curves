@@ -1,0 +1,165 @@
+RESULT all_possible_collision_pairs [ <3, 3>, <5, 6> ]
+RESULT quintic_two_subset_transposition_cycles [ <2, 3>, <1, 4> ]
+RESULT quintic_two_subset_five_cycle_cycles [ <5, 2> ]
+FINITE n=3 m=5 critical_value=2 fibre=[ 1, 2 ] ordinary_points=10 
+double_base_points=0 normalized_at_double=[ 1, 1, 1 ] contribution=10
+FINITE n=3 m=5 critical_value=-2 fibre=[ 2, 1 ] ordinary_points=10 
+double_base_points=0 normalized_at_double=[ 1, 1, 1 ] contribution=10
+RESULT n=3 m=5 collision_x_roots=0 finite_different=20 infinity_partition=[ 3 ] 
+infinity_different=2 normalized_genus=12
+FINITE n=3 m=6 critical_value=2 fibre=[ 1, 2 ] ordinary_points=12 
+double_base_points=0 normalized_at_double=[ 1, 1, 1 ] contribution=12
+FINITE n=3 m=6 critical_value=-2 fibre=[ 2, 1 ] ordinary_points=12 
+double_base_points=0 normalized_at_double=[ 1, 1, 1 ] contribution=12
+RESULT n=3 m=6 collision_x_roots=0 finite_different=24 infinity_partition=[ 1, 
+1, 1 ] infinity_different=0 normalized_genus=13
+FINITE n=3 m=7 critical_value=2 fibre=[ 1, 2 ] ordinary_points=14 
+double_base_points=0 normalized_at_double=[ 1, 1, 1 ] contribution=14
+FINITE n=3 m=7 critical_value=-2 fibre=[ 2, 1 ] ordinary_points=14 
+double_base_points=0 normalized_at_double=[ 1, 1, 1 ] contribution=14
+RESULT n=3 m=7 collision_x_roots=0 finite_different=28 infinity_partition=[ 3 ] 
+infinity_different=2 normalized_genus=16
+FINITE n=3 m=8 critical_value=2 fibre=[ 1, 2 ] ordinary_points=16 
+double_base_points=0 normalized_at_double=[ 1, 1, 1 ] contribution=16
+FINITE n=3 m=8 critical_value=-2 fibre=[ 2, 1 ] ordinary_points=16 
+double_base_points=0 normalized_at_double=[ 1, 1, 1 ] contribution=16
+RESULT n=3 m=8 collision_x_roots=0 finite_different=32 infinity_partition=[ 3 ] 
+infinity_different=2 normalized_genus=18
+FINITE n=3 m=9 critical_value=2 fibre=[ 1, 2 ] ordinary_points=18 
+double_base_points=0 normalized_at_double=[ 1, 1, 1 ] contribution=18
+FINITE n=3 m=9 critical_value=-2 fibre=[ 2, 1 ] ordinary_points=18 
+double_base_points=0 normalized_at_double=[ 1, 1, 1 ] contribution=18
+RESULT n=3 m=9 collision_x_roots=0 finite_different=36 infinity_partition=[ 1, 
+1, 1 ] infinity_different=0 normalized_genus=19
+FINITE n=4 m=6 critical_value=-3 fibre=[ 2, 1, 1 ] ordinary_points=12 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1 ] contribution=12
+FINITE n=4 m=6 critical_value=3*zeta + 3 fibre=[ 2, 1, 1 ] ordinary_points=12 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1 ] contribution=12
+FINITE n=4 m=6 critical_value=-3*zeta fibre=[ 2, 1, 1 ] ordinary_points=12 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1 ] contribution=12
+RESULT n=4 m=6 collision_x_roots=0 finite_different=36 infinity_partition=[ 1, 
+1, 1, 1 ] infinity_different=0 normalized_genus=19
+RESULT quartic_resolvent m=6 infinity_index=0 genus=19
+FINITE n=4 m=7 critical_value=-3 fibre=[ 2, 1, 1 ] ordinary_points=14 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1 ] contribution=14
+FINITE n=4 m=7 critical_value=3*zeta + 3 fibre=[ 2, 1, 1 ] ordinary_points=14 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1 ] contribution=14
+FINITE n=4 m=7 critical_value=-3*zeta fibre=[ 2, 1, 1 ] ordinary_points=14 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1 ] contribution=14
+RESULT n=4 m=7 collision_x_roots=0 finite_different=42 infinity_partition=[ 2, 2
+] infinity_different=2 normalized_genus=23
+RESULT quartic_resolvent m=7 infinity_index=0 genus=22
+FINITE n=4 m=8 critical_value=-3 fibre=[ 2, 1, 1 ] ordinary_points=16 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1 ] contribution=16
+FINITE n=4 m=8 critical_value=3*zeta + 3 fibre=[ 2, 1, 1 ] ordinary_points=16 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1 ] contribution=16
+FINITE n=4 m=8 critical_value=-3*zeta fibre=[ 2, 1, 1 ] ordinary_points=16 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1 ] contribution=16
+RESULT n=4 m=8 collision_x_roots=0 finite_different=48 infinity_partition=[ 1, 
+1, 1, 1 ] infinity_different=0 normalized_genus=25
+RESULT quartic_resolvent m=8 infinity_index=0 genus=25
+FINITE n=4 m=9 critical_value=-3 fibre=[ 2, 1, 1 ] ordinary_points=18 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1 ] contribution=18
+FINITE n=4 m=9 critical_value=3*zeta + 3 fibre=[ 2, 1, 1 ] ordinary_points=18 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1 ] contribution=18
+FINITE n=4 m=9 critical_value=-3*zeta fibre=[ 2, 1, 1 ] ordinary_points=18 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1 ] contribution=18
+RESULT n=4 m=9 collision_x_roots=0 finite_different=54 infinity_partition=[ 2, 2
+] infinity_different=2 normalized_genus=29
+RESULT quartic_resolvent m=9 infinity_index=0 genus=28
+FINITE n=4 m=10 critical_value=-3 fibre=[ 2, 1, 1 ] ordinary_points=20 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1 ] contribution=20
+FINITE n=4 m=10 critical_value=3*zeta + 3 fibre=[ 2, 1, 1 ] ordinary_points=20 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1 ] contribution=20
+FINITE n=4 m=10 critical_value=-3*zeta fibre=[ 2, 1, 1 ] ordinary_points=20 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1 ] contribution=20
+RESULT n=4 m=10 collision_x_roots=0 finite_different=60 infinity_partition=[ 1, 
+1, 1, 1 ] infinity_different=0 normalized_genus=31
+RESULT quartic_resolvent m=10 infinity_index=0 genus=31
+FINITE n=5 m=7 critical_value=4 fibre=[ 2, 1, 1, 1 ] ordinary_points=14 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=14
+FINITE n=5 m=7 critical_value=-4 fibre=[ 2, 1, 1, 1 ] ordinary_points=14 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=14
+FINITE n=5 m=7 critical_value=4*zeta fibre=[ 2, 1, 1, 1 ] ordinary_points=14 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=14
+FINITE n=5 m=7 critical_value=-4*zeta fibre=[ 2, 1, 1, 1 ] ordinary_points=14 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=14
+RESULT n=5 m=7 collision_x_roots=0 finite_different=56 infinity_partition=[ 5 ] 
+infinity_different=4 normalized_genus=31
+RESULT quintic_resolvent m=7 infinity_index=8 genus=89
+FINITE n=5 m=8 critical_value=4 fibre=[ 2, 1, 1, 1 ] ordinary_points=16 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=16
+FINITE n=5 m=8 critical_value=-4 fibre=[ 2, 1, 1, 1 ] ordinary_points=16 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=16
+FINITE n=5 m=8 critical_value=4*zeta fibre=[ 2, 1, 1, 1 ] ordinary_points=16 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=16
+FINITE n=5 m=8 critical_value=-4*zeta fibre=[ 2, 1, 1, 1 ] ordinary_points=16 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=16
+RESULT n=5 m=8 collision_x_roots=0 finite_different=64 infinity_partition=[ 5 ] 
+infinity_different=4 normalized_genus=35
+RESULT quintic_resolvent m=8 infinity_index=8 genus=101
+FINITE n=5 m=9 critical_value=4 fibre=[ 2, 1, 1, 1 ] ordinary_points=18 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=18
+FINITE n=5 m=9 critical_value=-4 fibre=[ 2, 1, 1, 1 ] ordinary_points=18 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=18
+FINITE n=5 m=9 critical_value=4*zeta fibre=[ 2, 1, 1, 1 ] ordinary_points=18 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=18
+FINITE n=5 m=9 critical_value=-4*zeta fibre=[ 2, 1, 1, 1 ] ordinary_points=18 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=18
+RESULT n=5 m=9 collision_x_roots=0 finite_different=72 infinity_partition=[ 5 ] 
+infinity_different=4 normalized_genus=39
+RESULT quintic_resolvent m=9 infinity_index=8 genus=113
+FINITE n=5 m=10 critical_value=4 fibre=[ 2, 1, 1, 1 ] ordinary_points=20 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=20
+FINITE n=5 m=10 critical_value=-4 fibre=[ 2, 1, 1, 1 ] ordinary_points=20 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=20
+FINITE n=5 m=10 critical_value=4*zeta fibre=[ 2, 1, 1, 1 ] ordinary_points=20 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=20
+FINITE n=5 m=10 critical_value=-4*zeta fibre=[ 2, 1, 1, 1 ] ordinary_points=20 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=20
+RESULT n=5 m=10 collision_x_roots=0 finite_different=80 infinity_partition=[ 1, 
+1, 1, 1, 1 ] infinity_different=0 normalized_genus=41
+RESULT quintic_resolvent m=10 infinity_index=0 genus=121
+FINITE n=5 m=11 critical_value=4 fibre=[ 2, 1, 1, 1 ] ordinary_points=22 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=22
+FINITE n=5 m=11 critical_value=-4 fibre=[ 2, 1, 1, 1 ] ordinary_points=22 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=22
+FINITE n=5 m=11 critical_value=4*zeta fibre=[ 2, 1, 1, 1 ] ordinary_points=22 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=22
+FINITE n=5 m=11 critical_value=-4*zeta fibre=[ 2, 1, 1, 1 ] ordinary_points=22 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=22
+RESULT n=5 m=11 collision_x_roots=0 finite_different=88 infinity_partition=[ 5 ]
+infinity_different=4 normalized_genus=47
+RESULT quintic_resolvent m=11 infinity_index=8 genus=137
+FINITE n=3 m=4 critical_value=2 fibre=[ 1, 2 ] ordinary_points=8 
+double_base_points=0 normalized_at_double=[ 1, 1, 1 ] contribution=8
+FINITE n=3 m=4 critical_value=-2 fibre=[ 2, 1 ] ordinary_points=8 
+double_base_points=0 normalized_at_double=[ 1, 1, 1 ] contribution=8
+RESULT n=3 m=4 collision_x_roots=0 finite_different=16 infinity_partition=[ 3 ] 
+infinity_different=2 normalized_genus=10
+FINITE n=4 m=5 critical_value=-3 fibre=[ 2, 1, 1 ] ordinary_points=10 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1 ] contribution=10
+FINITE n=4 m=5 critical_value=3*zeta + 3 fibre=[ 2, 1, 1 ] ordinary_points=10 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1 ] contribution=10
+FINITE n=4 m=5 critical_value=-3*zeta fibre=[ 2, 1, 1 ] ordinary_points=10 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1 ] contribution=10
+RESULT n=4 m=5 collision_x_roots=0 finite_different=30 infinity_partition=[ 2, 2
+] infinity_different=2 normalized_genus=17
+RESULT quartic_resolvent m=5 infinity_index=0 genus=16
+FINITE n=5 m=6 critical_value=4 fibre=[ 2, 1, 1, 1 ] ordinary_points=6 
+double_base_points=3 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=6
+FINITE n=5 m=6 critical_value=-4 fibre=[ 2, 1, 1, 1 ] ordinary_points=12 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=12
+FINITE n=5 m=6 critical_value=4*zeta fibre=[ 2, 1, 1, 1 ] ordinary_points=12 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=12
+FINITE n=5 m=6 critical_value=-4*zeta fibre=[ 2, 1, 1, 1 ] ordinary_points=12 
+double_base_points=0 normalized_at_double=[ 1, 1, 1, 1, 1 ] contribution=12
+RESULT n=5 m=6 collision_x_roots=3 finite_different=42 infinity_partition=[ 5 ] 
+infinity_different=4 normalized_genus=24
+CHECK quartic_block_resolvent_identity true
+FUNCTION_FIELD n=3 m=4 degree=3 genus=10 exact_constant_degree=1
+FUNCTION_FIELD n=4 m=5 degree=4 genus=17 exact_constant_degree=1
+FUNCTION_FIELD n=5 m=6 degree=5 genus=24 exact_constant_degree=1
+FUNCTION_FIELD quartic_resolvent m=5 degree=3 genus=16 exact_constant_degree=1
+FUNCTION_FIELD quartic_resolvent m=6 degree=3 genus=19 exact_constant_degree=1
+CHECK all_selected_uniform_family_instances true

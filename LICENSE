@@ -1,0 +1,20 @@
+License and attribution
+
+No blanket reuse license has yet been declared for the authors' original
+code, prose, or packaging. Please contact Diana Mocanu and George C. Țurcaș
+before redistributing or adapting those parts. Citation is encouraged.
+This preserves the licensing position of the earlier companion; it does
+not grant an MIT license or relicense third-party material.
+
+Copied LMFDB input data and derivatives of those data are provided under
+Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0):
+https://creativecommons.org/licenses/by-sa/4.0/
+Source: The LMFDB Collaboration, https://www.lmfdb.org/.
+The LMFDB access page and its linked Creative Commons license were checked
+on 20 September 2026: https://www.lmfdb.org/api/options.
+The input notes identify the selected records, dates, coordinate changes,
+and derived formulas. Attribution and share-alike requirements apply to
+redistribution of these data and their derivatives.
+
+Magma and other cited software, papers, and upstream resources retain
+their own terms. No claim of ownership over those resources is made.

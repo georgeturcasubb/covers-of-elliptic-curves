@@ -1,0 +1,25 @@
+Magma version <2, 28, 9>
+The six original embedded equations vanish after substitution.
+The original birational map recovers (a,v,1).
+The original j-map, including its factor 27, equals J(a^3).
+The invariant field Q(a^3,v) has the stored split-Cartan j-map.
+Factor and multiplicity <U + (54*x^5 - 324*x^4 + 1728*x^2)/(x^6 + 6*x^5 + 36*x^4
+    + 64*x^3 + 192*x^2 + 1024), 1>
+Factor and multiplicity <U + (-1/2*x^6 - 3*x^5 - 18*x^4 - 32*x^3 - 96*x^2 - 
+    512)/(x^5 - 6*x^4 + 32*x^2), 1>
+Factor and multiplicity <U^2 + (-54*x^8 + 648*x^7 + 3888*x^6 - 3456*x^5 + 
+    20736*x^4 - 55296*x^2)/(x^9 - 120*x^6 + 3072*x^3 + 32768)*U + 2916*x^4/(x^6 
+    - 12*x^5 + 36*x^4 + 64*x^3 - 384*x^2 + 1024), 1>
+Quadratic discriminant is -3 times this square (54*x^8 + 648*x^7 + 3456*x^5 + 
+    20736*x^4 + 55296*x^2)/(x^9 - 120*x^6 + 3072*x^3 + 32768)
+Factor and multiplicity <U^2 + (1/2*x^9 - 9*x^8 + 264*x^6 - 576*x^5 + 1536*x^3 -
+    9216*x^2 + 16384)/(x^8 + 6*x^7 + 36*x^6 + 64*x^5 + 192*x^4 + 1024*x^2)*U + 
+    (1/4*x^6 - 3*x^5 + 9*x^4 + 16*x^3 - 96*x^2 + 256)/x^4, 1>
+Quadratic discriminant is -3 times this square (1/2*x^9 + 3*x^8 - 36*x^7 + 
+    48*x^6 + 192*x^5 - 1152*x^4 + 1536*x^3 + 3072*x^2 + 16384)/(x^8 + 6*x^7 + 
+    36*x^6 + 64*x^5 + 192*x^4 + 1024*x^2)
+Factor degrees over Q(E) [ 1, 1, 2, 2 ]
+U1=2*h*q^3 and U1*U2=(-3)^3, exactly.
+Either possible modular U gives Q(E)(cube_root(2*h)).
+All original-map transport and scalar-2 assertions passed.
+CPU seconds 0.070

@@ -1,0 +1,42 @@
+TABLE columns: N D_N h(D_N) h(-4N) Fricke_fixed_points
+ORDER D=-148 conductor=1 h=2 reduced_forms=[ <1, 0, 37>, <2, 2, 19> ]
+TABLE N=37 D_N=-148 h=2 h_minus4N=2 fixed_points=2
+ORDER D=-43 conductor=1 h=1 reduced_forms=[ <1, 1, 11> ]
+ORDER D=-172 conductor=2 h=3 reduced_forms=[ <1, 0, 43>, <4, -2, 11>, <4, 2, 11>
+]
+TABLE N=43 D_N=-43 h=1 h_minus4N=3 fixed_points=4
+ORDER D=-212 conductor=1 h=6 reduced_forms=[ <1, 0, 53>, <2, 2, 27>, <3, -2, 
+18>, <3, 2, 18>, <6, -2, 9>, <6, 2, 9> ]
+TABLE N=53 D_N=-212 h=6 h_minus4N=6 fixed_points=6
+ORDER D=-244 conductor=1 h=6 reduced_forms=[ <1, 0, 61>, <2, 2, 31>, <5, -4, 
+13>, <5, 4, 13>, <7, -6, 10>, <7, 6, 10> ]
+TABLE N=61 D_N=-244 h=6 h_minus4N=6 fixed_points=6
+ORDER D=-260 conductor=1 h=8 reduced_forms=[ <1, 0, 65>, <2, 2, 33>, <3, -2, 
+22>, <3, 2, 22>, <5, 0, 13>, <6, -2, 11>, <6, 2, 11>, <9, 8, 9> ]
+TABLE N=65 D_N=-260 h=8 h_minus4N=8 fixed_points=8
+ORDER D=-79 conductor=1 h=5 reduced_forms=[ <1, 1, 20>, <2, -1, 10>, <2, 1, 10>,
+<4, -1, 5>, <4, 1, 5> ]
+ORDER D=-316 conductor=2 h=5 reduced_forms=[ <1, 0, 79>, <5, -2, 16>, <5, 2, 
+16>, <8, -6, 11>, <8, 6, 11> ]
+TABLE N=79 D_N=-79 h=5 h_minus4N=5 fixed_points=10
+ORDER D=-83 conductor=1 h=3 reduced_forms=[ <1, 1, 21>, <3, -1, 7>, <3, 1, 7> ]
+ORDER D=-332 conductor=2 h=9 reduced_forms=[ <1, 0, 83>, <3, -2, 28>, <3, 2, 
+28>, <4, -2, 21>, <4, 2, 21>, <7, -2, 12>, <7, 2, 12>, <9, -8, 11>, <9, 8, 11> ]
+TABLE N=83 D_N=-83 h=3 h_minus4N=9 fixed_points=12
+ORDER D=-356 conductor=1 h=12 reduced_forms=[ <1, 0, 89>, <2, 2, 45>, <3, -2, 
+30>, <3, 2, 30>, <5, -2, 18>, <5, 2, 18>, <6, -2, 15>, <6, 2, 15>, <7, -6, 14>, 
+<7, 6, 14>, <9, -2, 10>, <9, 2, 10> ]
+TABLE N=89 D_N=-356 h=12 h_minus4N=12 fixed_points=12
+ORDER D=-404 conductor=1 h=14 reduced_forms=[ <1, 0, 101>, <2, 2, 51>, <3, -2, 
+34>, <3, 2, 34>, <5, -4, 21>, <5, 4, 21>, <6, -2, 17>, <6, 2, 17>, <7, -4, 15>, 
+<7, 4, 15>, <9, -8, 13>, <9, 8, 13>, <10, -6, 11>, <10, 6, 11> ]
+TABLE N=101 D_N=-404 h=14 h_minus4N=14 fixed_points=14
+ORDER D=-131 conductor=1 h=5 reduced_forms=[ <1, 1, 33>, <3, -1, 11>, <3, 1, 
+11>, <5, -3, 7>, <5, 3, 7> ]
+ORDER D=-524 conductor=2 h=15 reduced_forms=[ <1, 0, 131>, <3, -2, 44>, <3, 2, 
+44>, <4, -2, 33>, <4, 2, 33>, <5, -4, 27>, <5, 4, 27>, <7, -6, 20>, <7, 6, 20>, 
+<9, -4, 15>, <9, 4, 15>, <11, -2, 12>, <11, 2, 12>, <12, -10, 13>, <12, 10, 13> 
+]
+TABLE N=131 D_N=-131 h=5 h_minus4N=15 fixed_points=20
+CHECK all_class_numbers true
+SCOPE h(D_N) is the derangement table; fixed_points is a separate column.

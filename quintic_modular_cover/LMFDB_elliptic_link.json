@@ -1,0 +1,97 @@
+{
+  "access_date": "2026-09-20",
+  "source": "LMFDB read-only MCP",
+  "queries": {
+    "class": "SELECT lmfdb_iso, conductor, class_size, isogeny_matrix FROM ec_classdata WHERE lmfdb_iso='800.d'",
+    "representative": "SELECT lmfdb_label, lmfdb_iso, ainvs, rank, analytic_rank FROM ec_curvedata WHERE lmfdb_label='800.d4'",
+    "newform": "SELECT label, level, weight, dim, related_objects FROM mf_newforms WHERE label='800.2.a.d'"
+  },
+  "newform": {
+    "columns": [
+      "label",
+      "level",
+      "weight",
+      "dim",
+      "related_objects"
+    ],
+    "row_count": 1,
+    "rows": [
+      {
+        "label": "800.2.a.d",
+        "level": 800,
+        "weight": 2,
+        "dim": 1,
+        "related_objects": [
+          "EllipticCurve/Q/800/d"
+        ]
+      }
+    ]
+  },
+  "isogeny_class": {
+    "columns": [
+      "lmfdb_iso",
+      "conductor",
+      "class_size",
+      "isogeny_matrix"
+    ],
+    "row_count": 1,
+    "rows": [
+      {
+        "lmfdb_iso": "800.d",
+        "conductor": 800,
+        "class_size": 4,
+        "isogeny_matrix": [
+          [
+            1,
+            4,
+            2,
+            4
+          ],
+          [
+            4,
+            1,
+            2,
+            4
+          ],
+          [
+            2,
+            2,
+            1,
+            2
+          ],
+          [
+            4,
+            4,
+            2,
+            1
+          ]
+        ]
+      }
+    ]
+  },
+  "representative": {
+    "columns": [
+      "lmfdb_label",
+      "lmfdb_iso",
+      "ainvs",
+      "rank",
+      "analytic_rank"
+    ],
+    "row_count": 1,
+    "rows": [
+      {
+        "lmfdb_label": "800.d4",
+        "lmfdb_iso": "800.d",
+        "ainvs": [
+          "0",
+          "0",
+          "0",
+          "100",
+          "0"
+        ],
+        "rank": 1,
+        "analytic_rank": 1
+      }
+    ]
+  }
+}

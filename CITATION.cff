@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this private prepublication companion and the accompanying paper when using these calculations."
+title: "Magma scripts accompanying New algebraic points on covers of elliptic curves"
+type: software
+authors:
+  - family-names: Mocanu
+    given-names: Diana
+  - family-names: Țurcaș
+    given-names: George C.
+repository-code: "https://github.com/georgeturcasubb/covers-of-elliptic-curves"
+abstract: "Private development companion with exact Magma checks for modular covers, explicit families, and quadratic-order class numbers. No public release has been made."
