@@ -1,9 +1,8 @@
 # Covers of elliptic curves
 
 Magma scripts accompanying *New algebraic points on covers of elliptic
-curves*, by Diana Mocanu and George C. Țurcaș. This is a **private
-prepublication companion**. No public release, DOI, or arXiv identifier is
-assigned to it.
+curves*, by Diana Mocanu and George C. Țurcaș. This repository contains the
+computational companion to the paper.
 
 - `cubic_modular_cover/` checks the modular groups, original model and
   j-map transport, exact Kummer scalar, and normalized geometry for
@@ -46,6 +45,5 @@ chosen representative is presumed.
 Please cite the paper, the scripts used, and the relevant original LMFDB
 records. See `CITATION.cff` for companion authorship and repository metadata,
 and `LICENSE` for the retained author-code terms and LMFDB data attribution.
-The repository is at
-<https://github.com/georgeturcasubb/covers-of-elliptic-curves> and currently
-requires authorized private access.
+The repository is publicly available at
+<https://github.com/georgeturcasubb/covers-of-elliptic-curves>.
